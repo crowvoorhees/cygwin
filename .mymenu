@@ -1,0 +1,20 @@
+
+[apps]
+ tree          :directory list
+ tty-clock     :terminal digital clock
+ tmux          :terminal multiplexer
+ screenfetch-c :print system information
+ weechat       :irc client
+ mutt          :email client
+ turses	       :twitter client
+ top           :system process monitor
+ rtv           :reddit client
+ termdown      :countdown timer
+ chonos        :stopwatch timer
+ haxor-news    :hacker news client
+ apt-cyg       :cygwin package manager
+ w3m           :browser
+
+[games]
+ ninvader      :space invaders clone
+ nudoku        :sudoku
